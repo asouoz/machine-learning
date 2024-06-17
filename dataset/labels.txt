@@ -1,0 +1,20 @@
+Ayam Betutu: 450-550 kalori
+Ayam Pop: 300-350 kalori
+Bakso: 350-450 kalori
+Coto Makassar: 400-500 kalori
+Dendeng Batakok: 300-400 kalori
+Gado-Gado: 400-500 kalori
+Gudeg: 450-550 kalori
+Gulai Ikan: 250-350 kalori
+Gulai Tambusu: 500-600 kalori
+Gulai Tunjang: 550-650 kalori
+Kerak Telor: 350-450 kalori
+Mie Aceh: 550-650 kalori
+Nasi Kuning: 500-600 kalori
+Pecel: 200-300 kalori
+Pempek: 250-350 kalori
+Rawon: 400-500 kalori
+Rendang: 450-550 kalori
+Sate Madura: 250-350 kalori
+Sate Padang: 250-350 kalori
+Soto: 250-350 kalori
